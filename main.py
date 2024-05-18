@@ -1,8 +1,11 @@
 import streamlit as st
 import openai
+import os
+from dotenv import load_dotenv
 
 # Securely set your OpenAI API key
-openai_api_key = st.secrets["my_api_key"]
+load_dotenv()
+openai_api_key = os.getenv["my_api_key"]
 
 def get_response(prompt):
     openai.api_key = openai_api_key
