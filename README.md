@@ -75,8 +75,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any questions or suggestions, please contact me at [your-email@example.com](mailto:your-email@example.com).
 
 ---
-
-**Note:** Make sure to replace placeholders like `your-username`, `your-repository`, and `YOUR_OPENAI_API_KEY` with your actual details.
-```
-
-This `README.md` provides a comprehensive overview of your project, including setup instructions, code overview, and contact information. Adjust the placeholders to fit your specific project details!
